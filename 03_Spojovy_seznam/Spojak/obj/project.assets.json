@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\02_Hodnotove_a_referencni_typy\\Hodnotove_a_referencni_typy\\Hodnotove_a_referencni_typy.csproj",
-      "projectName": "Hodnotove_a_referencni_typy",
-      "projectPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\02_Hodnotove_a_referencni_typy\\Hodnotove_a_referencni_typy\\Hodnotove_a_referencni_typy.csproj",
+      "projectUniqueName": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\Spojak\\Spojak.csproj",
+      "projectName": "Spojak",
+      "projectPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\Spojak\\Spojak.csproj",
       "packagesPath": "C:\\Users\\mysak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\02_Hodnotove_a_referencni_typy\\Hodnotove_a_referencni_typy\\obj\\",
+      "outputPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\Spojak\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
