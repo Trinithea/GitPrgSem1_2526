@@ -59,6 +59,30 @@ namespace Spojak
         }
 
         // TODO: Najít maximum
+        public int? FindMax()
+        // int s otazníkem znamená nullovatelný int - může obsahovat číslo i null 
+        {
+            if (Head == null)
+            {
+                Console.WriteLine("Tento seznam je przádný");
+                return null; // nullem naznačíme, že maximum nebylo nalezeno
+            }
+            else
+            {
+                Node node = Head;
+                int x = node.Value;
+                while (node != null)
+                {
+                    if (node.Value > x)
+                    {
+                        x = node.Value;
+                    }
+                    node = node.Next;
+                }
+                return x;
+            }
+
+        }
 
         // TODO: odebrat prvek z konce
 

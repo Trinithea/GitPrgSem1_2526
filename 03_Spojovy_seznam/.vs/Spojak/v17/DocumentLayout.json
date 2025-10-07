@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\",
+  "WorkspaceRootPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\03_Spojovy_seznam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C1F32295-EE3D-44FE-859F-EBC86C0FF15F}|Spojak\\Spojak.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\25_26\\prgsem1\\spojak\\spojak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C1F32295-EE3D-44FE-859F-EBC86C0FF15F}|Spojak\\Spojak.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\25_26\\prgsem1\\gitprgsem1_2526\\03_spojovy_seznam\\spojak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1F32295-EE3D-44FE-859F-EBC86C0FF15F}|Spojak\\Spojak.csproj|solutionrelative:spojak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\Spojak\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\03_Spojovy_seznam\\Spojak\\Program.cs",
               "RelativeDocumentMoniker": "Spojak\\Program.cs",
-              "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\Spojak\\Spojak\\Program.cs",
+              "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\25_26\\PrgSem1\\GitPrgSem1_2526\\03_Spojovy_seznam\\Spojak\\Program.cs",
               "RelativeToolTip": "Spojak\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAADwv0AAAABEAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAYwFMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T13:42:13.133Z",
               "EditorCaption": ""

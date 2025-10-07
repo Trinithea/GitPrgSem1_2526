@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spojak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32933ec8cb43386d8f71d22ba48d0063993ddeeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spojak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spojak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
