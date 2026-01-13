@@ -11,7 +11,9 @@ namespace Spojak
             spojak.AddToEnd(4);
             spojak.AddToEnd(5);
             spojak.AddToEnd(6);
-
+            spojak.Print();
+            Console.WriteLine(spojak.Exists(4));
+            
             spojak.Print();
         }
     }
@@ -87,5 +89,18 @@ namespace Spojak
         // TODO: odebrat prvek z konce
 
         // TODO: najít prvek a vrátit True nebo False, jestli tam je
+        public bool Exists(int value)
+        {
+            Node currentNode = Head;
+            while (currentNode != null)
+            {
+                if(currentNode.Value == value)
+                {
+                    return true;    
+                }
+                currentNode = currentNode.Next;
+            }
+            return false;
+        }
     }
 }
