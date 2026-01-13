@@ -33,7 +33,12 @@ namespace PololetniUloha
                 while (!sr.EndOfStream)
                 {
                     string[] line = sr.ReadLine().Split(";");
+                    List<Student>[] znamkyStudentu =
+                    {
+                        new List<Student>(), new List<Student>(), new List<Student>(), new List<Student>(), new List<Student>()
+                    };
                     
+
                 }                
 
             }
