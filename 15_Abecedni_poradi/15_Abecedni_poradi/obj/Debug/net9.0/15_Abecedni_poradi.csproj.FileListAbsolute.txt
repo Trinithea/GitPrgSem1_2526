@@ -1,0 +1,15 @@
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\bin\Debug\net9.0\15_Abecedni_poradi.exe
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\bin\Debug\net9.0\15_Abecedni_poradi.deps.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\bin\Debug\net9.0\15_Abecedni_poradi.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\bin\Debug\net9.0\15_Abecedni_poradi.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\bin\Debug\net9.0\15_Abecedni_poradi.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.sourcelink.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\refint\15_Abecedni_poradi.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\15_Abecedni_poradi.genruntimeconfig.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\15_Abecedni_poradi\15_Abecedni_poradi\obj\Debug\net9.0\ref\15_Abecedni_poradi.dll
