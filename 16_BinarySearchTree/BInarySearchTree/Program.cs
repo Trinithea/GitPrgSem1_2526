@@ -18,7 +18,7 @@ namespace BInarySearchTree
             // čteme data z CSV souboru se studenty (soubor je uložen ve složce projektu bin/Debug u exe souboru)
             // CSV je formát, kdy ukládáme jednotlivé hodnoty oddělené čárkou
             // v tomto případě: Id,Jméno,Příjmení,Věk,Třída
-            using(StreamReader streamReader  = new StreamReader("studenti_shuffled.csv"))
+            using(StreamReader streamReader  = new StreamReader("../../../../studenti_shuffled.csv"))
             {   
                 string line = streamReader.ReadLine();
                 while (line != null)
@@ -37,6 +37,7 @@ namespace BInarySearchTree
                     line = streamReader.ReadLine();
                 }
             }
+            Console.WriteLine(tree.Show());
             Console.WriteLine(tree.Find(20).Value);         
 
         }
@@ -74,9 +75,24 @@ namespace BInarySearchTree
         /// <returns>Returns True if node was successfully inserted or False if inserted key was already present.</returns>
         public void Insert(int newKey, T newValue) // chceme,a by nikdo zvenku nemusel specifikovat kořen stromu, atrom sám ví, co je jeho kořen => rozdělíme na public Insert a rekurzivní private _insert
         {
-            Node<T> _insert(Node<T> node, int newKey, T newValue)
+            
+            void _insert(Node<T> node, int newKey, T newValue)
             {
-                
+                if (newKey > node.Key)
+                {
+                    if (node.RightSon == null)
+                        node.RightSon = new Node<T>(newKey, newValue);
+                    else
+                        _insert(node.RightSon, newKey, newValue);
+                }
+                else
+                {
+                    if (node.LeftSon == null)
+                        node.LeftSon = new Node<T>(newKey, newValue);
+                    else
+                        _insert(node.LeftSon, newKey, newValue);
+                }
+                    
             }
 
 
@@ -86,6 +102,7 @@ namespace BInarySearchTree
             }               
             else
               _insert(Root, newKey, newValue);
+            
         }
         
         /// <summary>

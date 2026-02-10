@@ -1,0 +1,16 @@
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.exe
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.deps.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.runtimeconfig.dev.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\bin\Debug\net5.0\BInarySearchTree.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.sourcelink.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\refint\BInarySearchTree.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\BInarySearchTree.genruntimeconfig.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\GitPrgSem1_2526\16_BinarySearchTree\BInarySearchTree\obj\Debug\net5.0\ref\BInarySearchTree.dll
