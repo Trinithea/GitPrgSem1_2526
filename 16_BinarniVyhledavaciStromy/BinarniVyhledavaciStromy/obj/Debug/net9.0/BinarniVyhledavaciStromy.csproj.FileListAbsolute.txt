@@ -1,0 +1,14 @@
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\bin\Debug\net9.0\BinarniVyhledavaciStromy.exe
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\bin\Debug\net9.0\BinarniVyhledavaciStromy.deps.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\bin\Debug\net9.0\BinarniVyhledavaciStromy.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\bin\Debug\net9.0\BinarniVyhledavaciStromy.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\bin\Debug\net9.0\BinarniVyhledavaciStromy.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\refint\BinarniVyhledavaciStromy.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\BinarniVyhledavaciStromy.genruntimeconfig.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\25_26\PrgSem1\BinarniVyhledavaciStromy\BinarniVyhledavaciStromy\obj\Debug\net9.0\ref\BinarniVyhledavaciStromy.dll
